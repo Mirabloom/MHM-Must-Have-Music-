@@ -2,7 +2,7 @@
 
 MHM is a multi-platform application which allows the users to download the music and arrange it in the way they like/prefer, by genre, last added, artist, album, personalised playlist and favorites.The user can browse for a special genre of music or most popular or artist, etc... using variable combinations for searching.
 
-## Purpose and Features
+## Purpose and Features :musical_score:
 
 #### Purpose
 
@@ -81,31 +81,31 @@ Registered user can:
 
 ###  Functional Description
 
-#### Authorization
-##### Register
-- [ ] Registered
+#### Security
+##### Registration
 
-1. Any accesible page 
-2. Click on Sign In button
-3. Click on Register button
+1. New user = unregistered
+2. Home page 
+3. Click on Sign Up button
 4. Enter personal data
-5. Wait for succes response
+5. Click on Submit
 
 ##### Login
-- [x] Registered
 
-1. Any accesible page 
-2. Click on Sign In button
+1. Registered user
+2. Home page 
+3. Click on Sign In button
 4. Enter username and password
-5. Wait for succes response
+5. Click Ok
 
 ##### LogOut
-- [x] Registered
-- [x] Logged
 
-1. Any accesible page 
-2. Click on user dropdown menu from sidebar
-3. Click on Logout button
+1. Registered user
+2. Logged in user
+3. Any accesible page 
+4. Click on user dropdown menu from sidebar
+5. Click on Logout button
+6. Click on Ok button
 
 #### Basket Interactions as a registered user
 ##### Add item to Basket
