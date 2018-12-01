@@ -1,4 +1,4 @@
-## Client Side
+## Abstract
 
 MHM is a multi-platform application which allows the users to download the music and arrange it in the way they like/prefer, by genre, last added, artist, album, personalised playlist and favorites.The user can browse for a special genre of music or most popular or artist, etc... using variable combinations for searching.
 
@@ -23,21 +23,11 @@ This multi-platform application has multiple features regarding having an online
 
 ### Prototyping Tools
 Used application : 
-* [Adobe XD](https://www.adobe.com/uk/products/xd.html)
-* [Adobe Ilustrator](https://www.adobe.com/products/illustrator.html)
-* [Adobe Photoshop](https://www.adobe.com/products/photoshop.html)
+* [Adobe Ilustrator CC 2015](https://www.adobe.com/products/illustrator.html)
+* [Adobe Photoshop CC 2015](https://www.adobe.com/products/photoshop.html)
 
-Adobe XD Plugins:
-  * PhotoSplash
-  * UI Faces
-  * Lorem Ipsum
 
-Adobe XD UI kits:
-* [Bootstrap ui](https://xdresources.co/resources/bootstrap-4-ui)
-* Web XD wireframe kit
-* Material Design kit
-
-Icons sets (glyphicon, font awesome):
+Icons sets (glyphicon, font awesome): To be modified
 * [Iconify](https://iconify.design/)
   * [Font Awesome 4](https://iconify.design/icon-sets/fa/)
 * [Flaticon](https://www.flaticon.com/)
@@ -45,4 +35,4 @@ Icons sets (glyphicon, font awesome):
   * [Allergenic Food](https://www.flaticon.com/packs/allergenic-food)
 
 Fonts:
-* [Google Fonts](https://fonts.google.com/)
+* [Google Fonts](https://fonts.google.com/) To be modified
