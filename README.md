@@ -38,6 +38,7 @@ Fonts:
 * [Google Fonts](https://fonts.google.com/) To be modified
 
 
+
 ## Functionality
 Below it is described how the application works and all the interactions with different users.
 
@@ -76,6 +77,7 @@ Registered user can:
   * Access to Home page (Home page include Browse section, where a user can access different types of categories: popular, rock, etc...)
   * Access to Search section
   * Access to Library page
+
 
 ###  Functional Description
 
