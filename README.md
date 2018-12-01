@@ -157,20 +157,20 @@ Registered user can:
 4. Drag the song and drop it where the user want
 
 
-### Playlists Interactions as a registered user
-##### Create a playlist
+### Home page Interactions as a registered/unregistered user
+##### Browse for songs
 
 1. A registered and logged in user
-2. Click on Playlists dropdown list 
-3. Click on 'Create playlist' button
-4. Write down the playlist name
-5. Select privacy type (Private or Public)
-6. Press 'Save' button
+2. Click on Home page 
+3. A new page will be opened showing different categories
+4. Select a category
+5. A new page will open with different subcategories
+6. Select a song
 
 
 ## User Interface
 
-### Fonts and Colors
+### Fonts and Colors To be modified all
 
 #### Fonts: [Quicksand](https://fonts.google.com/specimen/Quicksand)
 
@@ -190,31 +190,27 @@ Combination of Gray and white is the base of all application design, golden is u
 
 ### Logo
 
-Logo ilustrate using text and image one of the main feature of application - Ability to construct own pizza 
+Logo Diana add 
 
 ![Logo](/_source/images/logo.png)
 
-### Navigation and Organization
-For fastest and confortable navigation is used a navbar with all important pages shortcuts. Navbar can have multiple states for register user, unregister user, group order user
+## Organization
 
-This site is organized on following pages:
+This site is organized as below:
 * Home
-* Menu
-  * Pizza
-  * Salad
-  * Desert
-  * Drinks
-  * Vegan
-* Promotions  
-* Pizza creation
+  * Genre
+  * Most popular
+  * New added
+  * Artists
+* Search
+* Library  
 
 Items pages:
-  * Pizza
-  * Other Food/Drink
+  * Songs
+  * Playlists
   
 User Dropdown pages:
 * User page
   * My Profile
-  * My Orders
-  * My Recipes
-* Group Order
+  * My Playlists
+  * Log out
