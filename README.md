@@ -11,11 +11,13 @@ Main purpose of this project are:
 * Create user friendly design
 * Offers new features for having presonalised, smart playlists
 
+
 #### Features
 
 This multi-platform application has multiple features regarding having an online music library
 * Ability to add a presonalised playlist or saving a public existing playlist
 * Ability to search music by different combinations (example: by song, by artist, by genre)
+
 
 ## Tools and Technologies
 
@@ -39,6 +41,7 @@ Fonts:
 
 
 
+
 ## Functionality
 Below it is described how the application works and all the interactions with different users.
 
@@ -46,6 +49,7 @@ Below it is described how the application works and all the interactions with di
 Main types of users in the application:
 * Unregistered user
 * Registered user
+
 
 ### What a user can do?
 
@@ -79,9 +83,10 @@ Registered user can:
   * Access to Library page
 
 
-###  Functional Description
 
-#### Security
+##  Functional Description
+
+### Security
 ##### Registration
 
 1. New user = unregistered
@@ -90,6 +95,7 @@ Registered user can:
 4. Enter personal data
 5. Click on Submit
 
+
 ##### Login
 
 1. Registered user
@@ -97,6 +103,7 @@ Registered user can:
 3. Click on Sign In button
 4. Enter username and password
 5. Click Ok
+
 
 ##### LogOut
 
@@ -107,146 +114,59 @@ Registered user can:
 5. Click on Logout button
 6. Click on Ok button
 
-#### Basket Interactions as a registered user
-##### Add item to Basket
-- [x] Registered
-- [x] Logged
 
-1. Any page with product items
-2. Click on 'Add to basket' button
+### Playlists Interactions as a registered user
+##### Create a playlist
 
-##### Delete item from Basket
-- [x] Registered
-- [x] Logged
-- [x] Having items in Basket
+1. A registered and logged in user
+2. Click on Playlists dropdown list 
+3. Click on 'Create playlist' button
+4. Write down the playlist name
+5. Select privacy type (Private or Public)
+6. Press 'Save' button
 
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'X'-delete button on selected item
 
-##### Clear Basket
-- [x] Registered
-- [x] Logged
-- [x] Having items in Basket
+##### Save a public playlist
 
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'Clear' button
+1. A registered and logged in user
+2. Select a public playlist
+3. Press 'Save playlist' button
 
-##### Send Order
-- [x] Registered
-- [x] Logged
-- [x] Having items in Basket
 
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'Order' button
+##### Add a song to playlist
 
-#### Group Order as a order admin
-##### Create Group Order
-- [x] Registered
-- [x] Logged
+1. A registered and logged in user 
+2. Open a song
+3. Click on 'Add to playlist' button
+4. Select from the dropdown list wanted playlist
 
-1. Any accesible page 
-2. Open user dropdown menu from sidebar
-3. Click 'Group Order' menu item
-4. Add valability time
-5. Click 'Save' button
 
-##### Save Group Order
-- [x] Registered
-- [x] Logged
-- [x] Created Group Order
+##### Deleting a song from playlist
 
-1. Any accesible page 
-2. Click 'Group User' image/button from sidebar
-3. Modify all you wont
-4. Click 'Save' button
+1. A registered and logged in user 
+2. Has songs in the playlist
+3. Select a song
+4. Click on 'Remove from playlist' button
 
-##### Add User to Group Order
-- [x] Registered
-- [x] Logged
-- [x] Created Group Order
 
-1. Any accesible page 
-2. Click 'Group User' image/button from sidebar
-3. Click 'Add User' button from 'Users Orders'
-4. Enter user data
-5. Click 'Save' button
+##### Order songs in a playlist
 
-##### Delete User from Group Order
-- [x] Registered
-- [x] Logged
-- [x] Created Group Order
+1. A registered and logged in user 
+2. Has songs in the playlist
+3. Select a song
+4. Drag the song and drop it where the user want
 
-1. Any accesible page 
-2. Click 'Group User' image/button from sidebar
-3. Click 'Delete User' button from selected user group
-4. Click 'Save' button
 
-##### Add Items for user order(part of group order)
-- [x] Registered
-- [x] Logged
-- [x] Created Group Order
+### Playlists Interactions as a registered user
+##### Create a playlist
 
-1. Any accesible page 
-2. Click 'Group User' image/button from sidebar
-3. Click 'Add Item' button from selected user group
-4. Select Item
-5. Click 'Save' button
+1. A registered and logged in user
+2. Click on Playlists dropdown list 
+3. Click on 'Create playlist' button
+4. Write down the playlist name
+5. Select privacy type (Private or Public)
+6. Press 'Save' button
 
-##### Delete Items for user order(part of group order)
-- [x] Registered
-- [x] Logged
-- [x] Created Group Order
-
-1. Any accesible page 
-2. Click 'Group User' image/button from sidebar
-3. Click 'X' - delete button from selected item 
-4. Click 'Save' button
-
-#### Basket Interactions as a group order user
-##### Add item to Basket
-- [x] Registered
-- [ ] Registered
-- [x] Logged
-- [ ] Logged
-- [x] used valid Group Order link
-
-1. Any page with product items
-2. Click on 'Add to basket' button
-
-##### Delete item from Basket
-- [x] Registered
-- [ ] Registered
-- [x] Logged
-- [ ] Logged
-- [x] used valid Group Order link
-
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'X'-delete button on selected item
-
-##### Clear Basket
-- [x] Registered
-- [ ] Registered
-- [x] Logged
-- [ ] Logged
-- [x] used valid Group Order link
-
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'Clear' button
-##### Add order to group order
-- [x] Registered
-- [ ] Registered
-- [x] Logged
-- [ ] Logged
-- [x] used valid Group Order link
-
-1. Any accesible page 
-2. Click on 'Basket' image/button from sidebar
-3. Click on 'Add to Group Order' button
 
 ## User Interface
 
