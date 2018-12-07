@@ -201,7 +201,7 @@ It also expresses the heart beat using the electromagnetic waves of the radio (f
 The logo incorporates 2-3 main colors and 4 additional colors for separate themes.
 The color red was chosen in the detriment of blue, as to signify the pulse and the heart. The additional C and M color themes were chosen as the colors favored by the creators.
 
-![Logo](/_source/images/logo.png)
+![Logo](/_source/imaster/logo.png)
 
 ## Organization
 
