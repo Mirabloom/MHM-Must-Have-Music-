@@ -40,9 +40,6 @@ Icons sets (glyphicon, font awesome): To be modified
 
 Fonts:
 * [Google Fonts](https://fonts.google.com/) Used Arial
-*
-
-
 
 
 ## Functionality
@@ -173,23 +170,21 @@ Registered user can:
 
 ## User Interface
 
-### Fonts and Colors To be modified all
+### Fonts and Colors
 
-#### Fonts: [Quicksand](https://fonts.google.com/specimen/Quicksand)
+#### Fonts: [Arial](https://fonts.google.com/specimen/Arial)
 
-![Colors](/colors.png)
+![Colors](/MHM-WEBSITE-COLOR-PALETTE.png)
 
 ### Design Message
 Our brand is based on:
 * Logo
 * Main application features
-* 3 main colors used in design
-  * Gray and its shades
-  * White
-  * Golden
+* 3 main colors used in design(https://www.htmlcsscolor.com/)
+  * Red as blood #FF0000
+  * White #FFFFFF 
+  * Black # 04040C
 
-
-Combination of Gray and white is the base of all application design, golden is used as a button color for succes buttons(Add to basket,Order,Save changes etc),r ed is used as a attention color(color for  food allergens).Gray and white combination are soothingly for user and golden is a succes color who push user to act, in our case to order a pizza or other food. 
 
 ### Logo
 
@@ -223,3 +218,10 @@ User Dropdown pages:
   * My Profile
   * My Playlists
   * Log out
+  
+  
+## Our diagrams:
+
+![Application diagram](/application-diagram.png)
+![Package diagram](/package-diagram.png)
+![Use Case diagram](/use-case-diagram.png)
