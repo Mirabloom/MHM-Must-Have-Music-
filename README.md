@@ -186,8 +186,7 @@ The obvious marks are firstly the heart, as said exposing the love for listening
 
 It also expresses the heart beat using the electromagnetic waves of the radio (frequency) when transmitting music, that can be sometimes mistaken for a pulse from the medical field at its highest. The frequency is connected by the letter µ because it means water, the property of music flowing like water.
 
-The logo incorporates 2-3 main colors and 4 additional colors for separate themes.
-The color red was chosen in the detriment of blue, as to signify the pulse and the heart. The additional C and M color themes were chosen as the colors favored by the creators.
+The logo incorporates 2-3 main colors. The color red was chosen in the detriment of blue, as to signify the pulse and the heart.
 
 ![Logo](/Logo.png)
 
