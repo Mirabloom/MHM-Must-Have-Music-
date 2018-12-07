@@ -31,13 +31,6 @@ Used application :
 * [Adobe XD Kits](https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD)
 
 
-Icons sets (glyphicon, font awesome): To be modified
-* [Iconify](https://iconify.design/)
-  * [Font Awesome 4](https://iconify.design/icon-sets/fa/)
-* [Flaticon](https://www.flaticon.com/)
-  * [Gastronomy Set](https://www.flaticon.com/packs/gastronomy-set)
-  * [Allergenic Food](https://www.flaticon.com/packs/allergenic-food)
-
 Fonts:
 * [Google Fonts](https://fonts.google.com/) Used Arial
 
@@ -172,7 +165,7 @@ Registered user can:
 
 ### Fonts and Colors
 
-#### Fonts: [Arial](https://fonts.google.com/specimen/Arial)
+#### Fonts: [Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts)
 
 ![Colors](/MHM-WEBSITE-COLOR-PALETTE.png)
 
@@ -180,7 +173,7 @@ Registered user can:
 Our brand is based on:
 * Logo
 * Main application features
-* 3 main colors used in design(https://www.htmlcsscolor.com/)
+* [3 main colors used in design](https://www.htmlcsscolor.com/)
   * Red as blood #FF0000
   * White #FFFFFF 
   * Black # 04040C
@@ -225,3 +218,8 @@ User Dropdown pages:
 ![Application diagram](/application-diagram.png)
 ![Package diagram](/package-diagram.png)
 ![Use Case diagram](/use-case-diagram.png)
+
+
+## Prototype:
+Online Prototype: [MHM Prototype]( https://xd.adobe.com/view/3bcb0772-d38f-48af-7349-6d5d9e79b4b7-4dfa/?fullscreen)
+Design specifications: [Design Specfications](https://xd.adobe.com/spec/40f0cb47-14f4-48fb-615d-e6dbf19e948e-36c1/)
