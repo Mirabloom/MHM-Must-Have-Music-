@@ -27,6 +27,8 @@ This multi-platform application has multiple features regarding having an online
 Used application : 
 * [Adobe Ilustrator CC 2015](https://www.adobe.com/products/illustrator.html)
 * [Adobe Photoshop CC 2015](https://www.adobe.com/products/photoshop.html)
+* [Adobe XD](https://www.adobe.com/uk/products/xd.html)
+* [Adobe XD Kits](https://www.behance.net/gallery/55462459/Wires-wireframe-kits-for-Adobe-XD)
 
 
 Icons sets (glyphicon, font awesome): To be modified
@@ -37,7 +39,8 @@ Icons sets (glyphicon, font awesome): To be modified
   * [Allergenic Food](https://www.flaticon.com/packs/allergenic-food)
 
 Fonts:
-* [Google Fonts](https://fonts.google.com/) To be modified
+* [Google Fonts](https://fonts.google.com/) Used Arial
+*
 
 
 
@@ -57,7 +60,7 @@ Unregistered user can:
 * Search for songs:
   * Search for a song based on artist name
   * Search for a song based on song name
-  * View puclic playlists 
+  * View public playlists 
   * Listen to songs
 * Page access:
   * Access to Home page (Home page include Browse section, where a user can access different types of categories: popular, rock, etc...)
@@ -190,7 +193,13 @@ Combination of Gray and white is the base of all application design, golden is u
 
 ### Logo
 
-Logo Diana add 
+The idea behind the design incorporates themes related to music and miscellaneous items (the µ letter of the Greek alphabet, the 12th letter) as well as encompassing the love for music.
+The obvious marks are firstly the heart, as said exposing the love for listening to music, then the beamed music note ♫ that is used in music to connect multiple quaver notes. 
+
+It also expresses the heart beat using the electromagnetic waves of the radio (frequency) when transmitting music, that can be sometimes mistaken for a pulse from the medical field at its highest. The frequency is connected by the letter µ because it means water, the property of music flowing like water.
+
+The logo incorporates 2-3 main colors and 4 additional colors for separate themes.
+The color red was chosen in the detriment of blue, as to signify the pulse and the heart. The additional C and M color themes were chosen as the colors favored by the creators.
 
 ![Logo](/_source/images/logo.png)
 
