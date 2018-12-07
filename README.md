@@ -221,5 +221,5 @@ User Dropdown pages:
 
 
 ## Prototype:
-Online Prototype: [MHM Prototype]( https://xd.adobe.com/view/3bcb0772-d38f-48af-7349-6d5d9e79b4b7-4dfa/?fullscreen)
-Design specifications: [Design Specfications](https://xd.adobe.com/spec/40f0cb47-14f4-48fb-615d-e6dbf19e948e-36c1/)
+* Online Prototype: [MHM Prototype]( https://xd.adobe.com/view/3bcb0772-d38f-48af-7349-6d5d9e79b4b7-4dfa/?fullscreen)
+* Design specifications: [Design Specfications](https://xd.adobe.com/spec/40f0cb47-14f4-48fb-615d-e6dbf19e948e-36c1/)
