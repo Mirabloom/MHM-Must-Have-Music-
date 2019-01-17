@@ -227,6 +227,11 @@ XSPF is the XML format for sharable playlists and has the following qualities:
 * It is free and open
 
 
+## JSON
+
+JSPF is JSON XSPF. The definitions of JSPF fields follow from the XSPF specification, but the expression uses Javascript. By using JSON, the application is able to receive and send responses from API to Micro services.
+
+
 ## Our diagrams:
 
 ![Application diagram](/application-diagram.png)
@@ -237,3 +242,18 @@ XSPF is the XML format for sharable playlists and has the following qualities:
 ## Prototype:
 * Online Prototype: [MHM Prototype]( https://xd.adobe.com/view/3bcb0772-d38f-48af-7349-6d5d9e79b4b7-4dfa/?fullscreen)
 * Design specifications: [Design Specfications](https://xd.adobe.com/spec/40f0cb47-14f4-48fb-615d-e6dbf19e948e-36c1/)
+
+
+## Adobe XD plugins used to generate the code:
+
+* Inker8 plugin code generator
+* Web Export
+* Copy CSS to clipboard
+* Convert SCCS Variables
+* Copy SVG Code
+
+
+## References:
+[Last.Fm](https://www.last.fm/api)
+[XSPF](http://xspf.org/)
+[JSON](http://xspf.org/jspf/)
