@@ -215,7 +215,8 @@ User Dropdown pages:
 ## Methods:
 
 For developing our music application we need the technical structure which is based on REST services, External API and Cloud SQL service for the Database. The website client is developed in Adobe XD. By applying Last.Fm which is a REST based service that uses the XML and JSON formatted responses we can interface with it through its methods.
-Why we used Last.Fm? Because it is a social website specialized in music recommandation. It pays attention to the music preferences of the users and offers them recommended new songs based on their taste and information about their favorite atrists. All the information is collected using Cloud storage service that is stored in PostgreSQL.
+
+ Why we used Last.Fm? Because it is a social website specialized in music recommandation. It pays attention to the music preferences of the users and offers them recommended new songs based on their taste and information about their favorite atrists. All the information is collected using Cloud storage service that is stored in PostgreSQL.
 
 
 ## Our diagrams:
