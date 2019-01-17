@@ -219,6 +219,14 @@ For developing our music application we need the technical structure which is ba
  Why we used Last.Fm? Because it is a social website specialized in music recommandation. It pays attention to the music preferences of the users and offers them recommended new songs based on their taste and information about their favorite atrists. All the information is collected using Cloud storage service that is stored in PostgreSQL.
 
 
+## XSPF:
+
+XSPF is the XML format for sharable playlists and has the following qualities:
+* Its is portable, a playlist can be used and carried from one place to another
+* It is bug free, most playlists are full of bugs
+* It is free and open
+
+
 ## Our diagrams:
 
 ![Application diagram](/application-diagram.png)
