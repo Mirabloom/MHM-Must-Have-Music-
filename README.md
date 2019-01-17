@@ -254,6 +254,6 @@ JSPF is JSON XSPF. The definitions of JSPF fields follow from the XSPF specifica
 
 
 ## References:
-[Last.Fm](https://www.last.fm/api)
-[XSPF](http://xspf.org/)
-[JSON](http://xspf.org/jspf/)
+* [Last.Fm](https://www.last.fm/api)
+* [XSPF](http://xspf.org/)
+* [JSON](http://xspf.org/jspf/)
