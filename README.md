@@ -190,6 +190,20 @@ The logo incorporates 2-3 main colors. The color red was chosen in the detriment
 
 ![Logo](/Logo.png)
 
+There are two additional themes: The C purple toned theme and the M pink toned theme.
+
+![Logo](/Themes.png)
+![Logo](/Colors.png)
+
+The color red was chosen in the detriment of blue, as to signify the pulse and the heart. The additional C and M color themes were chosen as the colors favored by the creators.
+
+![Logo](/Storming.png)
+
+Below is the highlighted process of creation for the logo, from the trembly lines to vector, using Adobe CC 2015.
+
+![Logo](/Scratch.png)
+
+
 ## Organization
 
 This site is organized as below:
