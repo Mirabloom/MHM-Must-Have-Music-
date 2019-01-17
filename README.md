@@ -167,7 +167,7 @@ Registered user can:
 
 #### Fonts: [Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts)
 
-![Colors](/MHM-WEBSITE-COLOR-PALETTE.png)
+![Colors](/PNG/MHM-WEBSITE-COLOR-PALETTE.png)
 
 ### Design Message
 Our brand is based on:
@@ -188,20 +188,20 @@ It also expresses the heart beat using the electromagnetic waves of the radio (f
 
 The logo incorporates 2-3 main colors. The color red was chosen in the detriment of blue, as to signify the pulse and the heart.
 
-![Logo](/Logo.png)
+![Logo](/PNG/Logo.png)
 
 There are two additional themes: The C purple toned theme and the M pink toned theme.
 
-![Logo](/Themes.png)
-![Logo](/Colors.png)
+![Logo](/PNG/Themes.png)
+![Logo](/PNG/Colors.png)
 
 The color red was chosen in the detriment of blue, as to signify the pulse and the heart. The additional C and M color themes were chosen as the colors favored by the creators.
 
-![Logo](/Storming.png)
+![Logo](/PNG/Storming.png)
 
 Below is the highlighted process of creation for the logo, from the trembly lines to vector, using Adobe CC 2015.
 
-![Logo](/Scratch.png)
+![Logo](/PNG/Scratch.png)
 
 
 ## Organization
@@ -248,9 +248,9 @@ JSPF is JSON XSPF. The definitions of JSPF fields follow from the XSPF specifica
 
 ## Our diagrams:
 
-![Application diagram](/application-diagram.png)
-![Package diagram](/package-diagram.png)
-![Use Case diagram](/use-case-diagram.png)
+![Application diagram](/PNG/application-diagram.png)
+![Package diagram](/PNG/package-diagram.png)
+![Use Case diagram](/PNG/use-case-diagram.png)
 
 
 ## Prototype:
