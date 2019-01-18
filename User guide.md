@@ -22,9 +22,16 @@ To be able to access all the features as searching a song by genre or album, cre
 <img src="./SVG Pages/SIGN IN 2.svg">
 <img src="./SVG Pages/HOME SIGNED IN USER HEART REMOVED.svg">
 
-Now that the user is signed in the apllication, he can create his own playlists. To do that, he searches for a song and clicks on the  Add to playlist button. There he can create a new playlist, or add the song in a playlist already created.
+Now that the user is signed in the apllication, he can create his own playlists. To do that, he searches for a song and clicks on the  Add to playlist button. There he can create a new playlist or add the song in a playlist already created.
 
 <img src="./SVG Pages/SONG CLICK SIGNED IN USER.svg">
 <img src="./SVG Pages/SONG CLICK SIGNED IN USER SELECT PLAYLIST – 1.svg">
 <img src="./SVG Pages/SONG CLICK SIGNED IN USER SELECT NEW PLAYLIST.svg">
 <img src="./SVG Pages/SONG CLICK SIGNED IN USER SELECT NEW PLAYLIST – 2.svg">
+
+In the Library section, the user can view his playlist where he can set them public or private, edit or delete them.
+
+<img src="./SVG Pages/MY PLAYLISTS REGISTERED USER – 1.svg">
+
+
+
