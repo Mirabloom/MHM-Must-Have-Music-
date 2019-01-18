@@ -10,7 +10,6 @@ As an unregistered user you can acces some of the features like view pulic playl
 <img src="./SVG Pages/SEARCH BY SONG UNREGISTERED USER.svg">
 <img src="./SVG Pages/SEARCH BY ARTIST UNREGISTERED USER.svg">
 <img src="./SVG Pages/SONG CLICK UNREGISTERED USER USER.svg">
-<img src="./SVG Pages/SONG CLICK UNREGISTERED USER USER.svg">
 <img src="./SVG Pages/LIBRARY ARTISTS UNREGISTERED USER.svg">
 <img src="./SVG Pages/LIBRARY SONGS UNREGISTERED USER.svg">
 
