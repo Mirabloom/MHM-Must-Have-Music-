@@ -33,6 +33,13 @@ In the Library section, the user can view his playlist where he can set them pub
 
 <img src="./SVG Pages/MY PLAYLISTS REGISTERED USER – 1.svg">
 
+In the Artist secton, the user can view featured artisits.
+
+<img src="./SVG Pages/LIBRARY ARTISTS SIGNED IN USER.svg">
+
+In the Plyslists section, the user can see the public playlists.
+
+<img src="./SVG Pages/PUBLIC PLAYLISTS REGISTERED USER.svg">
 
 Finally, the user can sign out form the appllication.
 
