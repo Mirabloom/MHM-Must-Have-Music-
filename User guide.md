@@ -34,4 +34,8 @@ In the Library section, the user can view his playlist where he can set them pub
 <img src="./SVG Pages/MY PLAYLISTS REGISTERED USER – 1.svg">
 
 
+Finally, the user can sign out form the appllication.
+
+<img src="./SVG Pages/HOME SIGN OUT 1.svg">
+<img src="./SVG Pages/HOME SIGNED IN USER HEART REMOVED.svg">
 
